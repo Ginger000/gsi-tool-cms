@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "outputs",
+  "info": {
+    "singularName": "output",
+    "pluralName": "outputs",
+    "displayName": "output"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "label": {
+      "type": "string",
+      "required": true
+    },
+    "info": {
+      "type": "richtext"
+    },
+    "options": {
+      "type": "json"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "legends",
+  "info": {
+    "singularName": "legend",
+    "pluralName": "legends",
+    "displayName": "legend",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "name_no_change": {
+      "type": "string"
+    },
+    "name_displayed": {
+      "type": "string"
+    }
+  }
+}
